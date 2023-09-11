@@ -1,0 +1,6 @@
+path: D:/yolo/OIDv4_ToolKit/OID/Dataset/train/Tiger-Detector/Tiger
+train: images/train
+val: images/train
+
+names:
+    0: Tiger
